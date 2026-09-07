@@ -1,1 +1,2 @@
 Projeto avançado simulando um fluxo de equipe real.
+Projeto em andamento continuo pronto para seguir.
