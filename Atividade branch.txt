@@ -1,5 +1,2 @@
 Projeto avançado simulando um fluxo de equipe real.
-
-O projeto conterá 2 integrantes
-
 Projeto em andamento continuo pronto para seguir.
